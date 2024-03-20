@@ -31,6 +31,13 @@ While specific resources for implementing the pure pursuit algorithm in Webots w
 
 As the field of robotics continues to evolve, the intersection of algorithms like pure pursuit and simulation environments like Webots becomes increasingly pivotal. Exploring the ongoing developments, potential advancements, and community-driven solutions in this space can provide a holistic perspective for developers and researchers venturing into the realm of robotic path planning.
 
+**Other Photos of Webots simulation world**
+
+<img width="876" alt="3333" src="https://github.com/ianspetnagel/ianspet/assets/62821052/5ca2a2f7-9f53-436e-9eeb-320f3d91946b">
+
+<img width="917" alt="444" src="https://github.com/ianspetnagel/ianspet/assets/62821052/6b9c2fd6-145d-4bd2-92e2-82feee220ad9">
+
+
 
 
 
