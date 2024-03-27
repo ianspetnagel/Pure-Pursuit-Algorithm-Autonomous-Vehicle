@@ -16,7 +16,7 @@ Implementing the pure pursuit algorithm involved understanding its geometric bas
 
 
 The project used the Webots simulation environment where we were able to program the vehicle's controller and understand its simulation parameters. 
-We are then calling the direction_control_wheels_speed( ) function in the main( ) to calculate the right and left wheels speed.
+We are then calling the direction_control_wheels_speed() function in the main() to calculate the right and left wheels speed.
 
 <img width="695" alt="22134" src="https://github.com/ianspetnagel/ianspet/assets/62821052/5e4debee-53d7-4964-8ad8-a0f125a962d1">
 
