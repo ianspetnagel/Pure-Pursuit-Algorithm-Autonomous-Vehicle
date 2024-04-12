@@ -21,7 +21,7 @@ We are then calling the direction_control_wheels_speed() function in the main() 
 <img width="695" alt="22134" src="https://github.com/ianspetnagel/ianspet/assets/62821052/5e4debee-53d7-4964-8ad8-a0f125a962d1">
 
 
-As we start the simulation the robot initially moves straight then uses the Lookahead distance we gave to change its course to turn and follow the left line. After a while, it will continue to turn but some calculations are causing the problem and the robot stops turning and goes straight until it crashes. 
+As we start the simulation the robot initially moves straight then uses the Lookahead distance we gave to change its course to turn and follow the left line. After a while, it will continue to turn but some calculations are causing the problem and the robot stops turning and goes straight until it eventually crashes. 
 
 
 **Conclusion**
